@@ -18,7 +18,7 @@ New levels can be built using Weltmeister.
 
 ## Authors
 
-**Developer**
+**Developer**  
 Rob McLarty  
 [@robmclarty](http://twitter.com/robmclarty)  
 [//robmclarty.com](http://robmclarty.com)
