@@ -4,6 +4,9 @@
 by hopping from bird to bird, infecting them, and taking control of their brains. If you go 
 too long without sucking on fresh, nutritious, bird-juices, you will wither and die.*
 
+NOTE: This was all done in 2 days at [http://tojam.ca](http://tojam.ca), so that's why the code
+might be a little messy. I just wanted to share it for learning purposes ;)
+
 ## Demo
 
 [http://robmclarty.github.io/cancer-bird](http://robmclarty.github.io/cancer-bird)
